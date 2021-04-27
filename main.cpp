@@ -22,7 +22,7 @@ void clrscr()
 }
 
 
-int main(int argc, char* argv[])
+int main()
 {
     int i = 10;
     SetTimer(NULL, 1, 1000, NULL);
